@@ -1,3 +1,7 @@
+Jarvis Voice Assistant (Python)
+
+A simple Python voice assistant that listens to voice commands and performs basic tasks like opening websites, playing music, and reading news.
+
 Features
 - Voice recognition using microphone
 - Text-to-speech replies
